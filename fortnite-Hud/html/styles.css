@@ -1,0 +1,127 @@
+.barIconArmour{
+	display:block;
+	width: calc(12.5% - 4px - 4px);
+	height: 12.5px;
+	padding-top: 5px;
+	position: absolute;
+	z-index: 99;
+	/* padding: 5px; */
+	bottom: 20%;
+    left: -9%;
+}
+
+#varArmour {
+	width: 15.228426396%;
+	position: absolute;
+	bottom: 6%;
+    left: 22.4%;
+ 
+}
+
+#boxSetArmour{
+
+	-moz-transform: scale(0.9) translate(-21px, 9px) skew(-27deg, 0deg);
+	-webkit-transform: scale(0.9) translate(-21px, 9px) skew(-27deg, 0deg);
+	-o-transform: scale(0.9) translate(-21px, 9px) skew(-27deg, 0deg);
+	-ms-transform: scale(0.9) translate(-21px, 9px) skew(-27deg, 0deg);
+	transform: scale(0.9) translate(-21px, 9px) skew(-27deg, 0deg);
+
+	background-color:black;
+	width: 100%;
+	height: 15px;
+	background-image:linear-gradient(45deg,#0051ff,#6db8ff);
+	position: relative;
+	bottom: 0;
+	z-index: 97;
+
+}
+
+.bararmour {
+	/* background-color: rgba(0, 0, 0, 0.4); */
+	width: calc(12.5% - 4px - 4px);
+	height: 15px;
+	float: left;
+	/* padding: 2px; */
+    z-index: 98;
+
+}
+
+
+.barIconHealth {
+	display:block;
+	width: calc(12.5% - 4px - 4px);
+	height: 12.5px;
+	padding-top: 5px;
+	position: absolute;
+	z-index: 99;
+	/* padding: 5px; */
+	bottom: 20%;
+    left: -9%;
+}
+#varHealth {
+	width: 15.228426396%;
+	position: absolute;
+	bottom: 4.5%;
+    left: 22.0%;
+
+}
+
+#boxsetHealth{
+	-moz-transform: scale(0.9) translate(-21px, 9px) skew(-27deg, 0deg);
+	-webkit-transform: scale(0.9) translate(-21px, 9px) skew(-27deg, 0deg);
+	-o-transform: scale(0.9) translate(-21px, 9px) skew(-27deg, 0deg);
+	-ms-transform: scale(0.9) translate(-21px, 9px) skew(-27deg, 0deg);
+	transform: scale(0.9) translate(-21px, 9px) skew(-27deg, 0deg);
+	background-color:black;
+	width: 100%;
+	height: 20px;
+	background-image:linear-gradient(45deg,#007c25,#00c03a);
+	position: relative;
+	bottom: 0;
+	z-index: 97;
+
+}
+
+.barhealth {
+	width: calc(12.5% - 4px - 4px);
+	height: 15px;
+	float: left;
+    z-index: 98;
+}
+
+
+
+.fa-shield-alt {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 1.5vh;
+  left: 37vh;
+  bottom: 3.5vh;
+}
+
+.fa-heart {
+	color: rgb(255, 255, 255);
+	position: absolute;
+	font-size: 1.5vh;
+	left: 37.5vh;
+	bottom: 5.2vh;
+  }
+
+
+  armor {
+	font-family: 'Bebas Neue', cursive;
+	  position: absolute;
+	  font-size: 1.5vh;
+	  color: white;
+	  left: 265px;
+	  top: 8px;
+  }
+
+  health {
+	font-family: 'Bebas Neue', cursive;
+	position: absolute;
+	font-size: 1.5vh;
+	color: white;
+	left: 265px;
+	top: 10px;
+}
