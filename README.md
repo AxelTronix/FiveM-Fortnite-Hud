@@ -24,7 +24,8 @@ A step by step series of examples that tell you how to install this hud
 
 ## Authors
 
-  - **Tronix ** - 
+  - Tronix - #!!Tronix#9431
+  - https://discord.gg/Qd7uk3j2Xz
 
 ## License
 
